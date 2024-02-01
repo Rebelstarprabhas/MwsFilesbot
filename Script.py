@@ -1,6 +1,9 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ 😍</b>"""
+Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, ᴍʏ ɴᴀᴍᴇ ɪs @Mws_Filesbot
+ɪ ᴀᴍ ʙᴏᴛ ᴡʜɪᴄʜ ʜᴀᴠᴇ ᴍᴏʀᴇ ᴛʜᴇɴ 1 ʟᴀᴋʜ +  ғɪʟᴇs ᴏɴ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ . ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ᴀɴᴅ sᴇʀɪᴇs
+
+ʙᴜᴛ..! ɴᴏᴛ ᴛʜᴇᴀᴛʀᴇ ᴘʀɪɴᴛs sᴏ ᴅᴏɴᴛ sᴇᴀʀᴄʜ ᴛʜᴇᴀᴛʀᴇ ᴘʀɪɴᴛs 😉</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
