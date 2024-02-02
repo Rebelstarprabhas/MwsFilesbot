@@ -18,7 +18,7 @@ AUTH_CHANNEL = None
 
 # MongoDB information
 DATABASE_URI = "mongodb+srv://parnfd785:parnfd785@cluster0.y5lzfqo.mongodb.net/?retryWrites=true&w=majority"
-DATABASE_NAME = 'Telegram'
+DATABASE_NAME = 'parnfd785'
 COLLECTION_NAME = 'channel_files'  # If you are using the same database, then use different collection name for each bot
 
 
